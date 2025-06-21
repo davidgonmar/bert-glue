@@ -5,7 +5,7 @@ Fast, reproducible fine-tuning of BERT-family models on the nine core GLUE tasks
 ## Installation
 
 ```bash
-pip install torch transformers datasets evaluate
+pip install -r requirements.txt
 ```
 
 ## Single-task run
